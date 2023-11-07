@@ -1,1 +1,14 @@
 Hii om, Please add the hello world java code in this file
+--------------------------------
+Hello prakash please get the below code in the Java1.java which
+is inside the Sfile1...
+
+Thank You...
+touch Java1.java
+// Your First Program
+
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
+}
